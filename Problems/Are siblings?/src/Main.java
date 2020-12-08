@@ -1,0 +1,12 @@
+import java.io.File;
+
+class Siblings {
+
+    public static boolean areSiblings(File f1, File f2) {
+        if (f1 == null || f2 == null) {
+            throw new IllegalArgumentException("Input arguments can't be null!");
+        }
+
+        return f1.getParent().equals(f2.getParent());
+    }
+}

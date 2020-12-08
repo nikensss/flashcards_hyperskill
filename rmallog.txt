@@ -1,0 +1,37 @@
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+spain
+The definition of the card:
+madrid
+The pair ("spain":"madrid") has been added
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "spain"
+spain
+Wrong. The right answer is "madrid"
+Print the definition of "spain"
+madrid
+Correct!
+Print the definition of "spain"
+longon
+Wrong. The right answer is "madrid"
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "spain". You have 2 errors answering it.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+capitalsrmal.txt
+1 cards have been saved
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+rmallog.txt
+The log has been saved
